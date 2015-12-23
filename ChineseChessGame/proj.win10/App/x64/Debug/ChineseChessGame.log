@@ -1,0 +1,3 @@
+﻿C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(1978,5): warning MSB3785: 找不到任何 SDK。将不会解析 SDKReference 项。如果应用程序需要这些引用，则可能会出现编译错误。
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(2048,5): error MSB3774: 找不到 SDK“WindowsMobile, Version=10.0.10240.0”。
+C:\Program Files (x86)\MSBuild\14.0\bin\Microsoft.Common.CurrentVersion.targets(2048,5): error MSB3774: 找不到 SDK“Microsoft.VCLibs, Version=14.0”。
